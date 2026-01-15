@@ -1,0 +1,39 @@
+String uses nextLine()
+Int uses nextInt()
+
+may face problem when entering int or double then a string
+
+SOLUTION
+After int or double put a scanner.nextLine();
+
+MATHS
+
+int x = 10;
+int y = 3:
+x=x+y; ANswer in 13 or a shortcut x +=y Answer is 13
+
+INCREMENT AND DECREMENT OPERATORS
+
+int x=1
+x++
+
+PRINTF
+Specifier character =  the data type of the variable
+Instead of + like in println you use a ,  
+e.g system.out print("your age is" + name); it will be system.out printf("your age is" , name);
+For a string its s
+For a character its c
+For an int its d
+For a double its f
+For a boolean its b
+
+  Precision
+Limit the number of digits that display after a decimal
+
+NESTED IF STATEMENTS CHECK NESTEDIF.JAVA ON VS CODE<LESSON1
+
+CHECK USEFUL STRING METHODS IN JVA FROM BRO CODE FROM YOUTUBE
+
+
+SUBSTRING METHODS
+

@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NestedLoops",
+            "request": "launch",
+            "mainClass": "LESSON1.NestedLoops",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "LESSON1.BreakContinue",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Countdown",
+            "request": "launch",
+            "mainClass": "LESSON1.Countdown",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "LESSON1.ForLoop",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "LESSON1.DoWhileLoop",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopExample",
+            "request": "launch",
+            "mainClass": "LESSON1.WhileLoopExample",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopExample2",
+            "request": "launch",
+            "mainClass": "LESSON1.WhileLoopExample2",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoops",
+            "request": "launch",
+            "mainClass": "LESSON1.WhileLoops",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "LESSON1.SimpleCalculator",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "EnhancedSwitch",
+            "request": "launch",
+            "mainClass": "LESSON1.EnhancedSwitch",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConverter",
+            "request": "launch",
+            "mainClass": "LESSON1.TemperatureConverter",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "TenaryOperator",
+            "request": "launch",
+            "mainClass": "LESSON1.TenaryOperator",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "WeightConverter",
+            "request": "launch",
+            "mainClass": "LESSON1.WeightConverter",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "LESSON1.SubString",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "training.App",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "java.training.App",
+            "projectName": "java-lessons"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "io.github.javatraining.App",
+            "projectName": "java-lessons"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "io.github.lessons.App",
+            "projectName": "java-lessons"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "io.github.lessons.App",
+            "projectName": "java-training"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "lessons.java.Student",
+            "projectName": "java-training"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "lessons.java.App",
+            "projectName": "java-training"
+        },
+        {
+            "type": "java",
+            "name": "Nestedif",
+            "request": "launch",
+            "mainClass": "LESSON1.Nestedif",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "compoundtest",
+            "request": "launch",
+            "mainClass": "LESSON1.compoundtest",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Width",
+            "request": "launch",
+            "mainClass": "LESSON1.Width",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Flags",
+            "request": "launch",
+            "mainClass": "LESSON1.Flags",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Precision",
+            "request": "launch",
+            "mainClass": "LESSON1.Precision",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "printf",
+            "request": "launch",
+            "mainClass": "LESSON1.printf",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "shopping",
+            "request": "launch",
+            "mainClass": "LESSON1.shopping",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
