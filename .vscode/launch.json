@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "training.SimpleCalculator",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
             "name": "NestedLoops",
             "request": "launch",
             "mainClass": "LESSON1.NestedLoops",
