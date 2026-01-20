@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AssignmentOne_VictorMungereti",
+            "request": "launch",
+            "mainClass": "training.AssignmentOne_VictorMungereti",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "TwodExample",
+            "request": "launch",
+            "mainClass": "LESSON1.TwodExample",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "TwodArray",
+            "request": "launch",
+            "mainClass": "LESSON1.TwodArray",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Varargs",
+            "request": "launch",
+            "mainClass": "LESSON1.Varargs",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "ArraySearch",
+            "request": "launch",
+            "mainClass": "LESSON1.ArraySearch",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayInput",
+            "request": "launch",
+            "mainClass": "LESSON1.ArrayInput",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayUserInput",
+            "request": "launch",
+            "mainClass": "LESSON1.ArrayUserInput",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOne",
+            "request": "launch",
+            "mainClass": "training.AssignmentOne",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLesson",
+            "request": "launch",
+            "mainClass": "LESSON1.ArrayLesson",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "LESSON1.Arrays",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Overloaded",
+            "request": "launch",
+            "mainClass": "LESSON1.Overloaded",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "OverloadedMethods",
+            "request": "launch",
+            "mainClass": "LESSON1.OverloadedMethods",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "LESSON1.Methods",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
             "name": "SimpleCalculator",
             "request": "launch",
             "mainClass": "training.SimpleCalculator",
