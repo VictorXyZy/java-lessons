@@ -34,12 +34,12 @@ public class ArrayLesson {
 
         // to sort your array there is a built in method
 
-        // Arrays.sort(fruits);
+        Arrays.sort(fruits);
 
-        // for (String fruit : fruits) {
-        // System.out.println(fruit);
+        for (String fruit : fruits) {
+            System.out.println(fruit);
 
-        // }
+        }
 
         // Arrays.fill(fruits, "pineapple");
 
