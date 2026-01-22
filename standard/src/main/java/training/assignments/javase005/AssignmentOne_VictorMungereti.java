@@ -1,4 +1,4 @@
-package training;
+package training.assignments.javase005;
 
 import java.util.Scanner;
 

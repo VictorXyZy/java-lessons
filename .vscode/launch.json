@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.exercises.javase007.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.CONSTRUCTORS.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.OOP.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
             "name": "AssignmentOne_VictorMungereti",
             "request": "launch",
             "mainClass": "training.AssignmentOne_VictorMungereti",
