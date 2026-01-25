@@ -8,6 +8,83 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "training.assignments.javase010.question1.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question5.question4.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question5.question3.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question5.Question1",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question4.BankAccount",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question4.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question3.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question3.Calculator",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase010.question2.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.exercises.javase008.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.gettersandsetters.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "training.exercises.javase007.Main",
             "projectName": "standard"
         },

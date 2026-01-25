@@ -1,6 +1,7 @@
 package LESSON1;
 
 public class Methods {
+
     public static void main(String[] args) {
 
         // a block of reusable code that is executed when called
