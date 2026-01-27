@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "training.exercises.javase011.praciceexercise2.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "training.assignments.javase010.question1.Main",
             "projectName": "standard"
         },
