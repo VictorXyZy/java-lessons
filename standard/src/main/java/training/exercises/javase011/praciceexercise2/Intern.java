@@ -1,6 +1,6 @@
 package training.exercises.javase011.praciceexercise2;
 
-class Intern extends Employee {
+public class Intern extends Employee {
     private String university;
 
     public Intern(String name, int id, double salary, String university) {

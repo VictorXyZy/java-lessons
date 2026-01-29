@@ -8,6 +8,41 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "LESSON1.exceptionslesson.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.superkeyword.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.inheritance.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.statickeyword.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LESSON1.overloadedconstructors.Main",
+            "projectName": "JAVA SESSIONS_e3f9f76b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "training.exercises.javase011.praciceexercise2.Main",
             "projectName": "standard"
         },

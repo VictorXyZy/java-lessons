@@ -1,6 +1,6 @@
 package training.exercises.javase011.praciceexercise2;
 
-abstract class Employee {
+public abstract class Employee {
     protected String name;
     protected int id;
     protected double salary;
@@ -39,8 +39,9 @@ abstract class Employee {
     public abstract double calculateBonus();
 
     public void displayInfo() {
-        System.out.println("ID: " + id);
+
         System.out.println("Name: " + name);
+        System.out.println("ID: " + id);
         System.out.println("Salary: $" + salary);
         System.out.println("Bonus: $" + calculateBonus());
     }

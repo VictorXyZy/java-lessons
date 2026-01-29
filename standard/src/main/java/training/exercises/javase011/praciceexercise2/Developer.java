@@ -1,6 +1,6 @@
 package training.exercises.javase011.praciceexercise2;
 
-class Developer extends Employee {
+public class Developer extends Employee {
     private String programmingLanguage;
 
     public Developer(String name, int id, double salary, String programmingLanguage) {
@@ -16,6 +16,6 @@ class Developer extends Employee {
     @Override
     public void displayInfo() {
         super.displayInfo();
-        System.out.println("Programming Language: " + programmingLanguage);
+        System.out.println("Programming Language used is: " + programmingLanguage);
     }
 }

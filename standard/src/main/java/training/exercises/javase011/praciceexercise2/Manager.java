@@ -1,6 +1,6 @@
 package training.exercises.javase011.praciceexercise2;
 
-class Manager extends Employee {
+public class Manager extends Employee {
     private String department;
 
     public Manager(String name, int id, double salary, String department) {
@@ -16,6 +16,6 @@ class Manager extends Employee {
     @Override
     public void displayInfo() {
         super.displayInfo();
-        System.out.println("Department: " + department);
+        System.out.println("Department is: " + department);
     }
 }
