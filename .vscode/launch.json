@@ -8,6 +8,34 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "training.assignments.javase014.question4.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase014.question3.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase014.question2.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.assignments.javase014.question1.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "LESSON1.exceptionslesson.Main",
             "projectName": "JAVA SESSIONS_e3f9f76b"
         },
