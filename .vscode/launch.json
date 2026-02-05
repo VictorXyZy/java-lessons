@@ -8,6 +8,69 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "training.exercises.javase012.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "practiseexercise2",
+            "request": "launch",
+            "mainClass": "training.exercises.javase006.practiseexercise2",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "practiseexercise1",
+            "request": "launch",
+            "mainClass": "training.exercises.javase006.practiseexercise1",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "practiseexercise3",
+            "request": "launch",
+            "mainClass": "training.exercises.javase003.practiseexercise3",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "practiceexercise2",
+            "request": "launch",
+            "mainClass": "training.exercises.javase003.practiceexercise2",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "practiseexercise1",
+            "request": "launch",
+            "mainClass": "training.exercises.javase003.practiseexercise1",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.exercises.javase002.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.exercises.javase001.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "training.exercises.javase015.Main",
+            "projectName": "standard"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "training.assignments.javase014.question4.Main",
             "projectName": "standard"
         },
